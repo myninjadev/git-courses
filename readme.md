@@ -1,3 +1,3 @@
 # Git And GitHub Courses
 
-Crash for Git by Ninja
+Crash for Git by NinjaDev
